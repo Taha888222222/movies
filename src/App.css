@@ -1,0 +1,33 @@
+.movie-card {
+  width: 18rem;
+  margin: 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.movie-card  {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.movie-card  {
+  margin-top: 10px;
+}
+
+
+
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+.gh{
+  display: flex;
+  justify-content: center;
+  color: violet;
+}
